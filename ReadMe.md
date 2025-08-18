@@ -7,13 +7,14 @@
 
 <!-- Animated Typing Name -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Zohaib+Karamat;Full+Stack+Developer;Senior+Software+Engineer;MERN+Stack+Expert" alt="Typing SVG" />
+, 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there!+I'm+Zohaib+Karamat+%F0%9F%91%8B;Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Zohaib-karamat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Zohaib-karamat?label=Followers&style=social" alt="GitHub Followers" />
-</div>
+</div> -->
 
 <br>
 
