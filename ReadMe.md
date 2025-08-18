@@ -34,6 +34,8 @@
 
 ## 🛠️ Technology Arsenal
 
+<div align="center">
+
 ### Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui" alt="Frontend Skills" />
@@ -54,6 +56,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu,npm,yarn" alt="Tools" />
 </p>
 
+</div>
 ---
 
 ## 🌐 Professional Network
