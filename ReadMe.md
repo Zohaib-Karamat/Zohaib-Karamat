@@ -76,7 +76,8 @@
 <div align="center">
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=Zohaib-Porfolio-Website&theme=tokyonight)](https://github.com/Zohaib-Karamat/Zohaib-Porfolio-Website)
-<!-- [![Real-time Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=realtime-chat&theme=tokyonight)](https://github.com/Zohaib-karamat) -->
+[![Netflix Clone](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=Netflix-Clone&theme=tokyonight)](https://github.com/Zohaib-Karamat/Netflix-Clone.git)
+
 
 </div>
 
