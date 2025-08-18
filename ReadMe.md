@@ -35,22 +35,22 @@
 ## 🛠️ Technology Arsenal
 
 ### Frontend Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui" alt="Frontend Skills" />
 </p>
 
 ### Backend Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,cpp" alt="Backend Skills" />
 </p>
 
 ### Database & Cloud
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel,docker,nginx" alt="Database & Cloud Skills" />
 </p>
 
 ### Development Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu,npm,yarn" alt="Tools" />
 </p>
 
