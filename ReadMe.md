@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=ecommerce-platform&theme=tokyonight)](https://github.com/Zohaib-karamat)
+[![Zohaib-Porfolio-Website](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=ecommerce-platform&theme=tokyonight)](https://github.com/Zohaib-Karamat/Zohaib-Porfolio-Website.git)
 [![Real-time Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=realtime-chat&theme=tokyonight)](https://github.com/Zohaib-karamat)
 
 </div>
