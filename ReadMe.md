@@ -87,12 +87,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zohaib-karamat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib-karamat&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zohaib-karamat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib-karamat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zohaib-karamat&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Zohaib-karamat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -100,7 +100,7 @@
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zohaib-karamat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zohaib-karamat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
 ---
