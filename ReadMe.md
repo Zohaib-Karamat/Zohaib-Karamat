@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-**Senior Full Stack Developer** with expertise in building scalable, high-performance web applications. Passionate about clean code, innovative solutions, and leading development teams to deliver exceptional user experiences.
+**Full Stack Developer** with expertise in building scalable, high-performance web applications. Passionate about clean code, innovative solutions, and leading development teams to deliver exceptional user experiences.
 
 ### 🎯 Current Focus
 - 🔭 **Leading** enterprise-level e-commerce platform development
