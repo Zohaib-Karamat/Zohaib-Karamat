@@ -134,7 +134,7 @@
 ## 📝 Latest Blog Posts & Insights
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 **Building Scalable Node.js Applications with Clean Architecture**
+- 🚀 **Building Scalable MERN Stack Applications with Clean Architecture**
 - 🔧 **Advanced React Patterns for Enterprise Applications**
 - 🛡️ **Security Best Practices for Full-Stack Applications**
 - 📊 **Database Optimization Techniques for High-Traffic Applications**
