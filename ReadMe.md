@@ -36,24 +36,29 @@
 
 <div align="center">
 
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,python" alt="Frontend Skills" />
+</p>
+
 ### Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
 </p>
 
 ### Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,cpp" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend Skills" />
 </p>
 
 ### Database & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel,docker,nginx" alt="Database & Cloud Skills" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,docker" alt="Database & Cloud Skills" />
 </p>
 
 ### Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu,npm,yarn" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Tools" />
 </p>
 
 </div>
