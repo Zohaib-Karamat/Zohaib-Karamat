@@ -156,7 +156,7 @@
 
 **🎯 Interested in discussing:** System Design • Architecture Patterns • Team Leadership • Tech Mentoring
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+growing+%F0%9F%9A%80;Let's+build+something+amazing+together!;Senior+Developer+%7C+Problem+Solver+%7C+Innovator" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+growing+%F0%9F%9A%80;Let's+build+something+amazing+together!;Problem+Solver+%7C+Innovator" alt="Footer Typing SVG" />
 
 </div>
 
