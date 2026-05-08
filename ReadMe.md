@@ -53,7 +53,7 @@
 
 ### Database & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,docker" alt="Database & Cloud Skills" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,docker" alt="Database & Cloud Skills" />
 </p>
 
 ### Development Tools
