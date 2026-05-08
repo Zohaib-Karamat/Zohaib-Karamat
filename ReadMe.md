@@ -48,7 +48,7 @@
 
 ### Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
 </p>
 
 ### Database & Cloud
