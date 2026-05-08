@@ -80,10 +80,10 @@
 
 <div align="center">
 
-[![Maternal Mind](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=FYP-Frontend&theme=tokyonight)](https://github.com/Zohaib-Karamat/FYP-Frontend.git)
-[![SkyCast](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=Weather-App&theme=tokyonight)](https://github.com/Zohaib-Karamat/Weather-App.git)
-[![Interview Conductor](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=Interview-Conductor-MERN-Stack&theme=tokyonight)](https://github.com/Zohaib-Karamat/Interview-Conductor-MERN-Stack.git)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-karamat&repo=Zohaib-Porfolio-Website&theme=tokyonight)](https://github.com/Zohaib-Karamat/Zohaib-Porfolio-Website)
+[![Maternal Mind](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=FYP-Frontend&theme=tokyonight)](https://github.com/Zohaib-Karamat/FYP-Frontend.git)
+[![SkyCast](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Weather-App&theme=tokyonight)](https://github.com/Zohaib-Karamat/Weather-App.git)
+[![Interview Conductor](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Interview-Conductor-MERN-Stack&theme=tokyonight)](https://github.com/Zohaib-Karamat/Interview-Conductor-MERN-Stack.git)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Zohaib-Porfolio-Website&theme=tokyonight)](https://github.com/Zohaib-Karamat/Zohaib-Porfolio-Website)
 
 
 </div>
