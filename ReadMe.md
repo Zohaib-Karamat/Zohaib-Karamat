@@ -10,67 +10,55 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there!+I'm+Zohaib+Karamat+%F0%9F%91%8B;Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zohaib-karamat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Zohaib-karamat?label=Followers&style=social" alt="GitHub Followers" />
-</div> -->
-
 <br>
 
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-**Full Stack Developer** with expertise in building scalable, high-performance web applications. Passionate about clean code, innovative solutions, and leading development teams to deliver exceptional user experiences.
+**Full Stack Developer** with expertise in building scalable, high-performance web applications. Passionate about clean code, innovative solutions, and delivering exceptional user experiences.
 
-### 🎯 Current Focus
-- 🔭 **Leading** enterprise-level e-commerce platform development
-- 🌱 **Mastering** advanced cloud architecture and microservices
-- 👯 **Collaborating** on cutting-edge full-stack projects
-- 💬 **Expertise** in **JavaScript/TypeScript**, **React/Next.js**, **Node.js**, **System Design**
-- ⚡ **Philosophy**: *"Code is poetry written in logic"*
+- 🔭 Building enterprise-level full-stack applications
+- 💬 Expert in **JavaScript/TypeScript**, **React/Next.js**, **Node.js**
+- 📫 Reach me at **juttzohaib875@gmail.com**
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,javascript,python" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,python" alt="Languages" />
 </p>
 
-### Frontend Development
+### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" alt="Frontend Skills" />
 </p>
 
-### Backend Development
+### Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Skills" />
 </p>
 
-### Database & Cloud
+### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,docker" alt="Database & Cloud Skills" />
-</p>
-
-### Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" alt="Tools" />
 </p>
 
 </div>
 
-## 🌐 Professional Network
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaibkaramat)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juttzohaib875@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zohaib-porfolio-website.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zohaib_jutt_333)
 
 </div>
 
@@ -81,16 +69,15 @@
 <div align="center">
 
 [![Maternal Mind](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=FYP-Frontend&theme=tokyonight)](https://github.com/Zohaib-Karamat/FYP-Frontend.git)
-[![SkyCast](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Weather-App&theme=tokyonight)](https://github.com/Zohaib-Karamat/Weather-App.git)
 [![Interview Conductor](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Interview-Conductor-MERN-Stack&theme=tokyonight)](https://github.com/Zohaib-Karamat/Interview-Conductor-MERN-Stack.git)
+[![SkyCast](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Weather-App&theme=tokyonight)](https://github.com/Zohaib-Karamat/Weather-App.git)
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Zohaib-Porfolio-Website&theme=tokyonight)](https://github.com/Zohaib-Karamat/Zohaib-Porfolio-Website)
-
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zohaib-karamat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
@@ -103,68 +90,13 @@
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zohaib-karamat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
 ---
-
-<!-- ## 📈 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zohaib-karamat/Zohaib-karamat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zohaib-karamat/Zohaib-karamat/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zohaib-karamat/Zohaib-karamat/output/github-contribution-grid-snake.svg">
-  </picture>
-</div> -->
-
-<!-- --- -->
-
-## 💡 Professional Insights
-
-<div align="center">
-  
-### 📚 Development Principles
-**Clean Architecture** • **SOLID Principles** • **Test-Driven Development** • **Agile Methodology**
-
-### 🎯 Specializations
-**API Design** • **Database Optimization** • **Performance Tuning** • **Security Best Practices**
-
-</div>
-
----
-
-## 📝 Latest Blog Posts & Insights
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 **Building Scalable MERN Stack Applications with Clean Architecture**
-- 🔧 **Advanced React Patterns for Enterprise Applications**
-- 🛡️ **Security Best Practices for Full-Stack Applications**
-- 📊 **Database Optimization Techniques for High-Traffic Applications**
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-**💼 Open for freelance projects and collaboration opportunities**
-
-**🎯 Interested in discussing:** System Design • Architecture Patterns • Team Leadership • Tech Mentoring
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+growing+%F0%9F%9A%80;Let's+build+something+amazing+together!;Problem+Solver+%7C+Innovator" alt="Footer Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
 
 <div align="center">
   
