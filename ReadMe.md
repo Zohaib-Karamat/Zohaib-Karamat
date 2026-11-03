@@ -64,14 +64,13 @@
 
 ---
 
-## 🔗 Featured Projects
+## 💼 My Work
 
 <div align="center">
 
-[![Maternal Mind](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=FYP-Frontend&theme=tokyonight)](https://github.com/Zohaib-Karamat/FYP-Frontend.git)
-[![Interview Conductor](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Interview-Conductor-MERN-Stack&theme=tokyonight)](https://github.com/Zohaib-Karamat/Interview-Conductor-MERN-Stack.git)
-[![SkyCast](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Weather-App&theme=tokyonight)](https://github.com/Zohaib-Karamat/Weather-App.git)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Zohaib-Karamat&repo=Zohaib-Porfolio-Website&theme=tokyonight)](https://github.com/Zohaib-Karamat/Zohaib-Porfolio-Website)
+### Check out my projects, case studies, and more on my portfolio
+
+[![View Portfolio](https://img.shields.io/badge/🚀%20View%20My%20Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://zohaib-porfolio-website.vercel.app/)
 
 </div>
 
@@ -93,7 +92,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zohaib-karamat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zohaib-karamat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
